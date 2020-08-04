@@ -61,5 +61,11 @@
     "rollup-plugin-size-snapshot": "^0.10.0",
     "rollup-plugin-terser": "^5.1.3",
     "shx": "^0.3.2"
-  }
+  },
+  "name": "loadable-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:markwoodward23/loadable-components.git",
+  "author": "Mark Woodward <mwoodward23@hotmail.co.uk>",
+  "license": "MIT"
 }
